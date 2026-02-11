@@ -1,0 +1,144 @@
+/* Descriptiom: Code for coding_website.html. */
+
+/* ---- Main ---- */
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+p {
+    color: black;
+    background-color: rgb(255, 255, 255);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 700px;
+    margin-left: 700px;
+    font-size: 50px;
+}
+
+/* ---- Headers  ---- */
+h1 {
+    color: black;
+    background-color: rgb(255, 255, 255);
+    text-align: right;
+    margin-left: 700px;
+    font-size: 40px;
+}
+
+h2 {
+    color: black;
+    background-color: white;
+    text-align: left;
+    margin-left: 700px;
+    font-size: 40px;
+}
+
+h3 {
+    color: black;
+    background-color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+h4 {
+    color: black;
+    background-color: white;
+    text-align: left;
+    margin-left: 700px;
+    font-size: 40px;
+}
+
+h5 {
+    color: black;
+    background-color: white;
+    text-align: left;
+    margin-left: 700px;
+    font-size: 40px;
+}
+
+/* ---- Buttons ---- */
+button {
+    color: black;
+    background-color: rgb(235, 240, 231);
+    margin-right:100px;
+    margin-left:100px;
+    font-size: 40px;
+}
+
+button:hover {
+    background-color: rgb(154, 161, 147);
+}
+
+.red_button:hover {
+    background-color: rgb(254, 91, 91);
+}
+
+.orange_button:hover {
+    background-color: rgb(251, 199, 86);
+}
+
+.yellow_button:hover {
+    background-color: rgb(249, 236, 98);
+}
+
+.green_button:hover {
+    background-color: rgb(119, 218, 91);
+}
+
+.blue_button:hover {
+    background-color: rgb(86, 205, 251);
+}
+
+.purple_button:hover {
+    background-color: rgb(229, 134, 255);
+}
+
+/* ---- Content ---- */
+ol {
+    margin: 5px 600px 5px 600px;
+    font-size: 40px;
+}
+
+.video {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    font-size: 40px;
+}
+
+.center_align {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.left_align {
+    margin-left: 1500px;
+}
+
+.large {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.biggest {
+    font-size: 80px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.checkbox_pad {
+    margin-left: 600px;
+}
+
+.list_pad {
+    margin-left: 700px;
+}
